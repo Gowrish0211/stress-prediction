@@ -41,7 +41,7 @@ if selected == "Home":
     with st.container():
 
         # Resme tıklanınca yönlendirilecek URL
-        target_url = "https://stress-analyzer.vercel.app/"
+        target_url = "https://stress-analyzer-ml.vercel.app/"
         image_url = "https://github.com/prathamxd/image-hosting/blob/main/Screenshot%202024-04-12%20at%2001-54-50%20Stress%20Analysis.png?raw=true"
         
         st.markdown(
@@ -82,9 +82,9 @@ if selected == "Home":
             <hr>
             <br>
             <p align='right'>
-                <a href="https://github.com/prathamxd/stress-analyzer" target="_blank">View App code on GitHub</a>
+                <a href="https://github.com/Gowrish0211/stress-analyzer" target="_blank">View App code on GitHub</a>
                 <br>
-                <a href="https://github.com/prathamxd/stress-prediction" target="_blank">View Streamlit code on Github</a>
+                <a href="https://github.com/Gowrish0211/stress-prediction" target="_blank">View Streamlit code on Github</a>
             </p>
             """,
             unsafe_allow_html=True
