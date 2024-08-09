@@ -42,7 +42,7 @@ if selected == "Home":
 
         # Resme tıklanınca yönlendirilecek URL
         target_url = "https://stress-analyzer-ml.vercel.app/"
-        image_url = "https://github.com/prathamxd/image-hosting/blob/main/Screenshot%202024-04-12%20at%2001-54-50%20Stress%20Analysis.png?raw=true"
+        image_url = "https://github.com/Gowrish0211/image/blob/main/Screenshot%202024-08-10%20002409.png?raw=true"
         
         st.markdown(
             f'<a href="{target_url}" target="_blank"><img src="{image_url}" alt="Homepage Image" width="100%"></a>',
